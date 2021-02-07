@@ -1,0 +1,10 @@
+package com.in28minutes.rest.webservices.restfulwebservices;
+
+import org.springframework.data.jpa.repository.config.JpaRepositoryConfigExtension;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class TodoJpaRepository extends JpaRepository<Todo, Long>{
+	
+
+}

@@ -1,0 +1,9 @@
+insert into todo(id,username,target_date,is_done)
+values(10001, 'root','Learn FullStack',sysdate(),false);
+
+insert into todo(id,username,target_date,is_done)
+values(10002, 'root','Learn DataJpa',sysdate(),false);
+
+insert into todo(id,username,target_date,is_done)
+values(10001, 'root','Learn Devops',sysdate(),false);
+

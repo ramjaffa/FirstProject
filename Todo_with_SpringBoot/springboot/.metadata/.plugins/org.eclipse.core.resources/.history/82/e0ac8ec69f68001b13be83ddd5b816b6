@@ -1,0 +1,5 @@
+package com.in28minutes.jpa.jpain10steps.entity;
+
+public class User {
+
+}
